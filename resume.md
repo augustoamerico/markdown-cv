@@ -4,8 +4,15 @@ Tiago dos Santos
 <santos.tmd@gmail.com> • +351 93 678 0921 • [www.tdsantos.com](http://www.tdsantos.com/)
 -----
 
-Experience
+Experience (3+ years)
 ----------
+
+2017/11-Present
+:   **Data Engineer; [Feedzai](http://www.feedzai.com/)**
+ 
+    *Development of a ML solution for short-circuit fault detection in Induction Motors. \
+
+    **Tasks:** Delivery; *
 
 2016/06-2017/06
 :   **MSc Thesis; Data Science Consultant; [Altran Portugal](http://www.altran.pt/)**
@@ -32,12 +39,12 @@ Experience
 
 <!--* Technologies: IBM BPM; Javascript; CSS/HTML; SOAP; IBM ODM; IBM WBM; XML; XSD; Microsoft SQL Server; FileNet !-->
 
-2011/07-2013/02
+<!--2011/07-2013/02
 :   **Software Developer (part-time); [GoBusiness Finance](https://gobusinessfinance.ch)**
 
     *Financial Fetcher of Stock Values to train a Neural Network (Maximus-AI). \
 
-    **Tasks:** ETL of financial data with preprocess hooks to train the neural network; *
+    **Tasks:** ETL of financial data with preprocess hooks to train the neural network; *!-->
 
 <!--* Technologies: Java; Prolog; Matlab; JavaNNS; Batchman !-->
 

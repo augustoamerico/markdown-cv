@@ -1,50 +1,60 @@
-Tiago dos Santos
+Tiago dos Santos $\nabla$ Data Science Engineering
 ============
 -----
-<santos.tmd@gmail.com> • +351 93 678 0921 • [www.tdsantos.com](http://www.tdsantos.com/)
+<!--<santos.tmd@gmail.com> • +351 93 678 0921 • [DSPT Lx Organizer](https://www.datascienceportugal.com/) • [www.tdsantos.com](http://www.tdsantos.com/)!-->Portugal, Lisbon • <santos.tmd@gmail.com> • [DSPT Lx Organizer](https://www.datascienceportugal.com/)
 -----
 
-Experience (3+ years)
+Experience (5 years)
 ----------
 
-2017/11-Present
-:   **Data Engineer; [Feedzai](http://www.feedzai.com/)**
- 
-    *Development of a ML solution for short-circuit fault detection in Induction Motors. \
+2019/03-Present
+:   **Data Science Engineer; [Stratio](https://stratioautomotive.com/)**
 
-    **Tasks:** Delivery; *
+    Development of models and infrastructure creation for the Stratio AI project.
+    
+    **Tasks:** Batch and stream infrastructure implementation; Framework creation for project unification and ease to deploy on production; Development and iteration of models with human feedback; Development of web apps for human feedback; Model monitoring;
+
+
+2017/11-2019/03
+:   **Data Science Engineer; [Feedzai](http://www.feedzai.com/)**
+
+    Development of a model for *Non-Disclosure Client* to detect online payment fraud within 5 countries.
+    
+    **Tasks:** Model Stability and Model variability Analysis; Developing in-house tools (faster data validation, exploration and model production monitoring); Feature Engineering; Benchmark model in production \& retrain; Model Monitoring; Data analysis to identify fraud attacks; Pipeline optimization;
+
 
 2016/06-2017/06
-:   **MSc Thesis; Data Science Consultant; [Altran Portugal](http://www.altran.pt/)**
+:   **Data Science Consultant; [Altran Portugal](http://www.altran.pt/)**
  
-    *Development of a ML solution for short-circuit fault detection in Induction Motors. \
+    Development of a ML solution for short-circuit fault detection in Induction Motors.
 
-    **Tasks:** Induction Motors Understanding; Feature Extraction; Model Understanding and Comparison; Model Tunning; Hyperparameter Search; ETL Process; Data Exploration Dashboarding; *
+    **Tasks:** ETL; EDA; Feature Extraction; Model Comparison; Model Hyperparameter Tunning
 
 2015/07-2016/03
 :   **Software Engineering & Project Manager; Freelancer - [Fluxphera](http://www.fluxphera.com)**
 
-    *Development of a scalable Web App to access and manage of the online multiplayer Be First Game. \
+    Development of a scalable Web App to access and manage of the online multiplayer Be First Game.
 
-    **Tasks:** Implement the server (node.js) and web app; Implement the scalable service architecture; WebGL integration and protocol development for the online game; Automated deploy on AWS EC2; *
+    **Tasks:** Node.js fullstack; Scalable and auto deploy (AWS); Distributed state protocol for online game
 
 <!--* Technologies: node.js; ejs; sequelize; socket.io; knockout.js; bootstrap; docker / docker-compose; git !-->
+
 
 2013/02-2014/09
 :   **Software Developer; [Safira](http://safira.pt)**
 
-    *Development of a BPM unified platform for insurance claim management with legacy integration. \
+    Development of a BPM unified platform for insurance claim management with legacy integration.
 
-    **Tasks:** Participate in Scrum procedure; Masterdata modeling; Implementing Coach Views; Integration with SQL Server; Query Optimization; Implementing Business Logic (IBM BPM); *
+    **Tasks:**Masterdata modeling; SQL Server Query Optimization; Backend and frontent dev (IBM BPM);
 
 <!--* Technologies: IBM BPM; Javascript; CSS/HTML; SOAP; IBM ODM; IBM WBM; XML; XSD; Microsoft SQL Server; FileNet !-->
 
-<!--2011/07-2013/02
+2011/07-2013/02
 :   **Software Developer (part-time); [GoBusiness Finance](https://gobusinessfinance.ch)**
 
-    *Financial Fetcher of Stock Values to train a Neural Network (Maximus-AI). \
+    Financial Fetcher of Stock Values to train a Neural Network (Maximus-AI).
 
-    **Tasks:** ETL of financial data with preprocess hooks to train the neural network; *!-->
+    **Tasks:** ETL of financial data with preprocess hooks to train the neural network;
 
 <!--* Technologies: Java; Prolog; Matlab; JavaNNS; Batchman !-->
 
@@ -63,43 +73,38 @@ Teaching Experience
 2015/03-2015/05 \ 2016/03-2016/05
 :   **Undergraduate Teaching Assistance**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)
 
-    *Scholarship in which I've been teaching the basics of programming with Matlab.*
+    Scholarship in which I've been teaching the basics of programming with Matlab.
 
 <!--*Scholarship in which I've been teaching Programming for Sciences and Engineering practical classes. This course is about learning the basics of programming with Matlab.* !-->
 
 Education
 ---------
+2018/09-2019/01
+:   **Partial Post Grad, Analysis and Engineering of Big Data**; [Nova Lisbon University, FCT](https://www.fct.unl.pt/en/education/course/master-analysis-and-engineering-big-data)
 
-2014/09-2017/05
-:   **MSc, Computer Science (17/20)**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)
+    Multivariate Inference; Cluster analysis; Resampling and Confidence intervals; Optimization
 
-    *Study of distributed/parallel data processing, distributed systems implementation, machine learning, data warehouse, interactive data visualization, database optimization and web apps development. \
+2009/09-2013/07 \ 2014/09-2017/05
+:   **BSc and MSc, Computer Science (17/20)**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)
 
-    **Thesis (20/20):** Machine Learning for On-line Detection of Stator Short-Circuit in Induction Motors*
-
-2009/09-2013/07
-:   **BSc, Computer Science (14/20)**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)
-
-
-Courses
---------------------
+    **Thesis (20/20):** Machine Learning for On-line Detection of Stator Short-Circuit in Induction Motors
 
 2017/03-2017/08
 :   **Machine Learning Specialization**; [Coursera](https://www.coursera.org/specializations/machine-learning)
 
 Skills
 --------------------
-Frameworks
-:   **Node.js**, **Docker**, **Git**, **react.js**, Hadoop, Spark, Spring Boot, Hibernate, Bootstrap
+Lang & Tools
+:   **Python**, **R**, **PySpark**, **Git**, **Docker**, **k8s**, **Java**, **Javascript**, Node.js, react.js, Scala, Shell
 
-Programming
-:   **R**, **Javascript**, **Java**, **HTML**, **CSS**, C/C++,  Shell, Matlab, Python, Prolog, OCaml
-
-DBMS
-:   **PostgresSQL**, **MySQL**, Microsoft SQL, Oracle 11g
+Data
+:   **HDFS**, **PostgresSQL**, **Parquet**, MySQL, Cassandra, Redis, Microsoft SQL
 
 Data Viz
-: **Plotly**, **Tableau**, Shiny, Ggplot2
+: **Plotly**, **Tableau**, **Shiny**, **Ggplot2**, Kibana, Apache Superset
 
-ML Tasks
-: **Classification**, **Regression**, **Validation**, **Evaluation**, **Data Understanding**
+DS Tasks
+: **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **EDA**, Regression, Clustering
+
+ML Algorithms
+: **Random Forests**, **Light GBM**, XGBoost, NN

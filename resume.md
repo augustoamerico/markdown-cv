@@ -58,6 +58,24 @@ Experience (5 years)
 
 <!--* Technologies: Java; Prolog; Matlab; JavaNNS; Batchman !-->
 
+Skills
+--------------------
+Lang & Tools
+:   **Python**, **R**, **PySpark**, **Git**, **Docker**, **k8s**, **Java**, **Kafka**, Node.js, react.js, Scala, Shell
+
+Data Store
+:   **HDFS**, **PostgresSQL**, **Parquet**, MySQL, Cassandra, Redis, Microsoft SQL
+
+Data Viz
+: **Plotly**, **Tableau**, **Shiny**, **Ggplot2**, Kibana, Apache Superset
+
+DS Tasks
+: **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **EDA**, Regression, Clustering
+
+ML Algorithms
+: **Random Forests**, **Light GBM**, XGBoost, NN
+
+
 Publications
 ---------
 
@@ -89,22 +107,12 @@ Education
 
     **Thesis (20/20):** Machine Learning for On-line Detection of Stator Short-Circuit in Induction Motors
 
+2019/09-2019/10
+:   **Big Data for Data Engineers Specialization**; [Coursera](https://www.coursera.org/specializations/big-data-engineering)
+
+2019/09-2010/10
+:   **Apache Airflow**; [Udemy](https://www.udemy.com/the-complete-hands-on-course-to-master-apache-airflow/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-TECH-ROW-DSA-1-EN-EURO_._ci__._sl_ENG_._vi_TECH_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_57696320791_._ad_318300707723_._de_c_._dm__._pl__._ti_dsa-849065987407_._li_1011742_._pd__._&gclid=EAIaIQobChMIzda16sOT5AIVyPZRCh1gJgWGEAAYASAAEgKv5fD_BwE)
+
 2017/03-2017/08
 :   **Machine Learning Specialization**; [Coursera](https://www.coursera.org/specializations/machine-learning)
 
-Skills
---------------------
-Lang & Tools
-:   **Python**, **R**, **PySpark**, **Git**, **Docker**, **k8s**, **Java**, **Javascript**, Node.js, react.js, Scala, Shell
-
-Data
-:   **HDFS**, **PostgresSQL**, **Parquet**, MySQL, Cassandra, Redis, Microsoft SQL
-
-Data Viz
-: **Plotly**, **Tableau**, **Shiny**, **Ggplot2**, Kibana, Apache Superset
-
-DS Tasks
-: **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **EDA**, Regression, Clustering
-
-ML Algorithms
-: **Random Forests**, **Light GBM**, XGBoost, NN

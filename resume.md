@@ -4,7 +4,7 @@ Tiago dos Santos $\nabla$ Data Science Engineering
 <!-- https://tex.stackexchange.com/questions/192178/context-how-to-align-a-delimitedtext !-->
 > Portugal, Lisbon • <santos.tmd@gmail.com>
 
-Experience (7 years)
+Experience (6+ years)
 ----------
 
 2019/11-Present

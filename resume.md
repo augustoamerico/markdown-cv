@@ -1,13 +1,20 @@
 Tiago dos Santos $\nabla$ Data Science Engineering
 ============
------
-<!--<santos.tmd@gmail.com> • +351 93 678 0921 • [DSPT Lx Organizer](https://www.datascienceportugal.com/) • [www.tdsantos.com](http://www.tdsantos.com/)!-->Portugal, Lisbon • <santos.tmd@gmail.com> • [DSPT Lx Organizer](https://www.datascienceportugal.com/)
------
+<!--<santos.tmd@gmail.com> • +351 93 678 0921 • [DSPT Lx Organizer](https://www.datascienceportugal.com/) • [www.tdsantos.com](http://www.tdsantos.com/)!-->
+<!-- https://tex.stackexchange.com/questions/192178/context-how-to-align-a-delimitedtext !-->
+> Portugal, Lisbon • <santos.tmd@gmail.com>
 
-Experience (5 years)
+Experience (7 years)
 ----------
 
-2019/03-Present
+2019/11-Present
+:   **Data Infrastructure Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
+
+    Development, Deployment and Monitoring of infrastructure and services for internal Data clients.
+
+    **Tasks:** Event Sourcing Infrastructure implementation; Data Observability processes; Data Democratization processes; Deployment and Monitoring of Kafka, Kafka Connect, JupyterHub, Druid, KSQLDB; Migration from Azure Data Factory to Airflow;
+
+2019/03-2019/11
 :   **Data Science Engineer; [Stratio](https://stratioautomotive.com/)**
 
     Development of models and infrastructure creation for the Stratio AI project.
@@ -37,7 +44,7 @@ Experience (5 years)
 
     **Tasks:** Node.js fullstack; Scalable and auto deploy (AWS); Distributed state protocol for online game
 
-<!--* Technologies: node.js; ejs; sequelize; socket.io; knockout.js; bootstrap; docker / docker-compose; git !-->
+<!--* Technologies: node<center>.js; ejs; sequelize; socket.io; knockout.js; bootstrap; docker / docker-compose; git !-->
 
 
 2013/02-2014/09
@@ -61,32 +68,37 @@ Experience (5 years)
 Skills
 --------------------
 Lang & Tools
-:   **Python**, **R**, **PySpark**, **Git**, **Docker**, **k8s**, **Java**, **Kafka**, Node.js, react.js, Scala, Shell
+:   **Python**, **R**, **PySpark**, **Git**, **Docker**, **k8s**, **shell**, **Java**, **Kafka**, C#, Node.js, react.js, Scala
 
 Data Store
-:   **HDFS**, **PostgresSQL**, **Parquet**, MySQL, Cassandra, Redis, Microsoft SQL
+:   **HDFS**, **PostgresSQL**, **Parquet**, **Hive**, Druid, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
 
 Data Viz
-: **Plotly**, **Tableau**, **Shiny**, **Ggplot2**, Kibana, Apache Superset
+:   **Plotly**, **Shiny**, **Ggplot2**, echarts4r, Redash, Apache Superset, Tableau, Kibana
 
 DS Tasks
-: **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **EDA**, Regression, Clustering
+:   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **EDA**, Regression, Clustering
 
 ML Algorithms
 : **Random Forests**, **Light GBM**, XGBoost, NN
 
 
+
 Publications
 ---------
-
 2017-04
 : **Stator Winding Short-Circuit Fault Diagnosis in Induction Motors using Random Forest; [IEMDC](http://www.iemdc2017.org/)**
 
 2017-05
 : **Severity Estimation of Stator Winding Short-Circuit Faults using Cubist; [EPIA](https://web.fe.up.pt/~epia2017/)**
 
+
 Teaching Experience
 ---------
+2019/09-2020/07
+:   **Teaching Assistance**; [Lusófona Universidade](https://www.ulusofona.pt/en/)
+
+    Teaching Assistance for the subjects of Multimedia Data Science Introduction and Artificial Intelligence Introduction.
 
 2015/03-2015/05 \ 2016/03-2016/05
 :   **Undergraduate Teaching Assistance**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)

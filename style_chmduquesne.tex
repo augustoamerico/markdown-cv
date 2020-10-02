@@ -41,6 +41,7 @@ $endif$
 \setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
                           before={\leavevmode\blackrule\hspace}]
 \setuphead[subsubsection][style=\bf]
+\setuphead[subsubsubsubsection][style=\d, align=middle, before={\setupalign[wide]}]
 
 $if(number-sections)$
 $else$
@@ -66,7 +67,7 @@ $endif$
 
 \setupdelimitedtext
   [blockquote]
-  [before={\setupalign[wide]},
+  [before={\setupalign[middle]},
    indentnext=no
   ]
 

@@ -10,7 +10,7 @@ Experience (7 years)
 2019/11-Present
 :   **Data Infrastructure Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
 
-    Development, Deployment and Monitoring of infrastructure and services for internal Data clients.
+    Development, deployment and monitoring of infrastructure and services for internal Data clients.
 
     **Tasks:** Event Sourcing Infrastructure implementation; Data Observability processes; Data Democratization processes; Deployment and Monitoring of Kafka, Kafka Connect, JupyterHub, Druid, KSQLDB; Migration from Azure Data Factory to Airflow;
 

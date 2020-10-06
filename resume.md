@@ -1,7 +1,5 @@
 Tiago dos Santos $\nabla$ Data Science Engineering
 ============
-<!--<santos.tmd@gmail.com> • +351 93 678 0921 • [DSPT Lx Organizer](https://www.datascienceportugal.com/) • [www.tdsantos.com](http://www.tdsantos.com/)!-->
-<!-- https://tex.stackexchange.com/questions/192178/context-how-to-align-a-delimitedtext !-->
 > Portugal, Lisbon • <santos.tmd@gmail.com>
 
 Experience (6+ years)
@@ -81,7 +79,6 @@ DS Tasks
 
 ML Algorithms
 : **Random Forests**, **Light GBM**, XGBoost, NN
-
 
 
 Publications

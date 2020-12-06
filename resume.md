@@ -1,4 +1,4 @@
-Tiago dos Santos $\nabla$ Data Science Engineering
+Tiago dos Santos $\nabla$ Data Science Engineer
 ============
 > Portugal, Lisbon • <santos.tmd@gmail.com>
 
@@ -66,19 +66,19 @@ Experience (6+ years)
 Skills
 --------------------
 Lang & Tools
-:   **Python**, **R**, **PySpark**, **Git**, **Docker**, **k8s**, **shell**, **Java**, **Kafka**, C#, Node.js, react.js, Scala
+:   **Python**, **R**, **Git**, **Docker**, **k8s**, **bash**, **Java**, C#, Node.js, react.js, Scala
 
-Data Store
-:   **HDFS**, **PostgresSQL**, **Parquet**, **Hive**, Druid, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
+Data Store & Query Engine
+:   **HDFS**, **PostgresSQL**, **Kafka**, **Druid**, **Parquet**, **Hive**, **Spark**, Drill, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
 
 Data Viz
-:   **Plotly**, **Shiny**, **Ggplot2**, echarts4r, Redash, Apache Superset, Tableau, Kibana
+:   **Plotly**, **Shiny**, **Ggplot2**, echarts4r, Redash, Apache Superset, Metastore, Tableau, Kibana
 
 DS Tasks
-:   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **EDA**, Regression, Clustering
+:   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **Model Monitoring**, **EDA**, Regression, Clustering
 
-ML Algorithms
-: **Random Forests**, **Light GBM**, XGBoost, NN
+DS Lifecycle
+:   **Airflow**, Mlflow, Kubeflow, Seldon-Core, Kedro, DVC
 
 
 Publications
@@ -95,12 +95,12 @@ Teaching Experience
 2019/09-2020/07
 :   **Teaching Assistance**; [Lusófona Universidade](https://www.ulusofona.pt/en/)
 
-    Teaching Assistance for the subjects of Multimedia Data Science Introduction and Artificial Intelligence Introduction.
+    Teaching Assistance for the subjects of Multimedia Data Science and Artificial Intelligence.
 
 2015/03-2015/05 \ 2016/03-2016/05
 :   **Undergraduate Teaching Assistance**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)
 
-    Scholarship in which I've been teaching the basics of programming with Matlab.
+    Scholarship in which I've been teaching programming principles with Matlab.
 
 <!--*Scholarship in which I've been teaching Programming for Sciences and Engineering practical classes. This course is about learning the basics of programming with Matlab.* !-->
 
@@ -116,10 +116,13 @@ Education
 
     **Thesis (20/20):** Machine Learning for On-line Detection of Stator Short-Circuit in Induction Motors
 
+2020/10-2021/02
+:   **Apache Kafka Series**([Kafka](https://www.udemy.com/course/apache-kafka/), [Streams/KSQL](https://www.udemy.com/course/kafka-streams/), [Connect](https://www.udemy.com/course/kafka-connect/), [Schema](https://www.udemy.com/course/confluent-schema-registry/)); Udemy
+
 2019/09-2019/10
 :   **Big Data for Data Engineers Specialization**; [Coursera](https://www.coursera.org/specializations/big-data-engineering)
 
-2019/09-2010/10
+2019/09-2019/10
 :   **Apache Airflow**; [Udemy](https://www.udemy.com/the-complete-hands-on-course-to-master-apache-airflow/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-TECH-ROW-DSA-1-EN-EURO_._ci__._sl_ENG_._vi_TECH_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_57696320791_._ad_318300707723_._de_c_._dm__._pl__._ti_dsa-849065987407_._li_1011742_._pd__._&gclid=EAIaIQobChMIzda16sOT5AIVyPZRCh1gJgWGEAAYASAAEgKv5fD_BwE)
 
 2017/03-2017/08

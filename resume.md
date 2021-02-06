@@ -5,7 +5,15 @@ Tiago dos Santos $\nabla$ Data Science Engineer
 Experience (6+ years)
 ----------
 
-2019/11-Present
+
+2020/12-Present
+:   **Data Science Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
+
+    Implementation of pipelines for model serving with api for model monitoring and model tracking.
+
+    **Tasks:** Model deployment with CI/CD; Comparison of Model Signatures from lab and production; Comparison of features from lab and production;
+
+2019/11-2020-12
 :   **Data Infrastructure Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
 
     Development, deployment and monitoring of infrastructure and services for internal Data clients.
@@ -69,7 +77,7 @@ Lang & Tools
 :   **Python**, **R**, **Git**, **Docker**, **k8s**, **bash**, **Java**, C#, Node.js, react.js, Scala
 
 Data Store & Query Engine
-:   **HDFS**, **PostgresSQL**, **Kafka**, **Druid**, **Parquet**, **Hive**, **Spark**, Drill, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
+:   **HDFS**, **PostgresSQL**, **Kafka**, **Parquet**, **Hive**, **Spark**, Druid, Drill, Presto/Trino, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
 
 Data Viz
 :   **Plotly**, **Shiny**, **Ggplot2**, echarts4r, Redash, Apache Superset, Metastore, Tableau, Kibana
@@ -78,7 +86,7 @@ DS Tasks
 :   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **Model Monitoring**, **EDA**, Regression, Clustering
 
 DS Lifecycle
-:   **Airflow**, Mlflow, Kubeflow, Seldon-Core, Kedro, DVC
+:   **Airflow**, Mlflow, BentoML,  Kubeflow, Seldon-Core, Kedro, DVC
 
 
 Publications

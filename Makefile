@@ -23,10 +23,8 @@ resume.rtf: resume.md
 	pandoc -s +smart resume.md -o resume.rtf
 
 clean:
-	rm resume.html
 	rm resume.tex
 	rm resume.tuc
 	rm resume.log
 	rm resume.pdf
-	rm resume.docx
 	rm resume.rtf

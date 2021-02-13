@@ -6,10 +6,11 @@ Experience (6+ years)
 ----------
 
 
-2020/12-Present
+2021/01-Present
 :   **Data Science Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
 
     Implementation of pipelines for model serving with api for model monitoring and model tracking.
+    Adapting model serving solutions for several internal teams' usage.
 
     **Tasks:** Model deployment with CI/CD; Comparison of Model Signatures from lab and production; Comparison of features from lab and production;
 
@@ -23,25 +24,27 @@ Experience (6+ years)
 2019/03-2019/11
 :   **Data Science Engineer; [Stratio](https://stratioautomotive.com/)**
 
-    Development of models and infrastructure creation for the Stratio AI project.
+    Development of models (vehicle battery discharged - Random Forest, tire pressure - Variational Auto Encoder); pipelines definitions for model deployment; infrastructure creation for the Stratio AI project.
     
-    **Tasks:** Batch and stream infrastructure implementation; Framework creation for project unification and ease to deploy on production; Development and iteration of models with human feedback; Development of web apps for human feedback; Model monitoring;
+    **Tasks:** Batch and stream infrastructure implementation; Framework creation for project unification and ease to deploy on production; Development and iteration of models with human feedback; Development of dashboards / web apps for human feedback; Model monitoring and performance evaluation (recall, fpr, auc, others); Label Management;
 
 
 2017/11-2019/03
 :   **Data Science Engineer; [Feedzai](http://www.feedzai.com/)**
 
-    Development of a model for *Non-Disclosure Client* to detect online payment fraud within 5 countries.
+    Development and production maintenance of a model (Random Forest) for *Non-Disclosure Client* to detect online payment fraud within 5 countries.
+    Model comparison between Random Forest, XGBoost and LightGBM.
+    Creation of Model Performance Reports for client.
     
-    **Tasks:** Model Stability and Model variability Analysis; Developing in-house tools (faster data validation, exploration and model production monitoring); Feature Engineering; Benchmark model in production \& retrain; Model Monitoring; Data analysis to identify fraud attacks; Pipeline optimization;
+    **Tasks:** Model Stability and Model variability Analysis; Developing in-house tools (faster data validation, exploration and model production monitoring); Feature Engineering; Benchmark model in production (recall, fpr, auc, others) \& retrain; Model Monitoring; Data analysis to identify fraud attacks; Pipeline optimization; Label Management;
 
 
 2016/06-2017/06
 :   **Data Science Consultant; [Altran Portugal](http://www.altran.pt/)**
  
-    Development of a ML solution for short-circuit fault detection in Induction Motors.
+    Development of a ML solution for short-circuit fault detection in Induction Motors; Dashboard for inference monitoring (R/Shiny); Model Inference module; Model Scoring service;
 
-    **Tasks:** ETL; EDA; Feature Extraction; Model Comparison; Model Hyperparameter Tunning
+    **Tasks:** ETL implementation for new data; EDA; Feature Extraction; Model Comparison (compared more than 10 models); Model Hyperparameter Tunning
 
 2015/07-2016/03
 :   **Software Engineering & Project Manager; Freelancer - [Fluxphera](http://www.fluxphera.com)**
@@ -84,6 +87,9 @@ Data Viz
 
 DS Tasks
 :   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **Model Monitoring**, **EDA**, Regression, Clustering
+
+DS Models
+:   **Random Forests**, **XGBoost**, **LightGBM**, SVM, Cubist, Variational AutoEncoder, Logit, LDA, K-NN, K-Means, NN
 
 DS Lifecycle
 :   **Airflow**, Mlflow, BentoML,  Kubeflow, Seldon-Core, Kedro, DVC

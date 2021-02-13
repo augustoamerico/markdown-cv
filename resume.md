@@ -48,7 +48,9 @@ Experience (6+ years)
 2016/06-2017/06
 :   **Data Science Consultant; [Altran Portugal](http://www.altran.pt/)**
  
-    Development of a ML solution for short-circuit fault detection in Induction Motors; Dashboard for inference monitoring (R/Shiny); Model Inference module; Model Scoring service;
+    Development of a ML solution for short-circuit fault detection in Induction Motors.
+    Dashboard for inference monitoring (R/Shiny).
+    Model Inference module; Model Scoring service.
 
     **Tasks:** ETL implementation for new data; EDA; Feature Extraction; Model Comparison (compared more than 10 models); Model Hyperparameter Tunning
 

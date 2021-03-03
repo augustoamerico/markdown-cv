@@ -25,7 +25,11 @@ Experience (6+ years)
 2019/03-2019/11
 :   **Data Science Engineer; [Stratio](https://stratioautomotive.com/)**
 
-    Development of models (vehicle battery discharged - Random Forest, tire pressure - Variational Auto Encoder); pipelines definitions for model deployment; infrastructure creation for the Stratio AI project.
+    Development of models (vehicle battery discharged - Random Forest, tire pressure - Variational Auto Encoder). 
+    Pipelines definitions for model deployment. 
+    Infrastructure creation for the Stratio AI project.
+    Dealed with Gigabyte size data (json/parquet).
+
     
     **Tasks:** Batch and stream infrastructure implementation; Framework creation for project unification and ease to deploy on production; Development and iteration of models with human feedback; Development of dashboards / web apps for human feedback; Model monitoring and performance evaluation (recall, fpr, auc, others); Label Management;
 
@@ -34,6 +38,8 @@ Experience (6+ years)
 :   **Data Science Engineer; [Feedzai](http://www.feedzai.com/)**
 
     Development and production maintenance of a model (Random Forest) for *Non-Disclosure Client* to detect online payment fraud within 5 countries.
+    Dealed with datasets having tens of terabytes size (csv/json, parquet).
+    Dealed with fast data (circa 300 transactions p/s peak)
     Model comparison between Random Forest, XGBoost and LightGBM.
     Creation of Model Performance Reports for client.
     
@@ -43,7 +49,9 @@ Experience (6+ years)
 2016/06-2017/06
 :   **Data Science Consultant; [Altran Portugal](http://www.altran.pt/)**
  
-    Development of a ML solution for short-circuit fault detection in Induction Motors; Dashboard for inference monitoring (R/Shiny); Model Inference module; Model Scoring service;
+    Development of a ML solution for short-circuit fault detection in Induction Motors.
+    Dashboard for inference monitoring (R/Shiny).
+    Model Inference module; Model Scoring service.
 
     **Tasks:** ETL implementation for new data; EDA; Feature Extraction; Model Comparison (compared more than 10 models); Model Hyperparameter Tunning
 

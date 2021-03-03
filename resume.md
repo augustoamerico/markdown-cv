@@ -8,11 +8,12 @@ Experience (6+ years)
 
 2021/01-Present
 :   **Data Science Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
-
-    Implementation of pipelines for model serving with api for model monitoring and model tracking.
+    
+    Infrastructure setup for model serving and serverless functions.
+    Implementation of pipelines for model serving with api for model monitoring and artifact tracking.
     Adapting model serving solutions for several internal teams' usage.
 
-    **Tasks:** Model deployment with CI/CD; Comparison of Model Signatures from lab and production; Comparison of features from lab and production;
+    **Tasks:** Deployment of KFServing, Nuclio; Model deployment with CI/CD; K8s logging stream to elastic; Artifact versioning on cloud;
 
 2019/11-2020-12
 :   **Data Infrastructure Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
@@ -92,7 +93,7 @@ DS Models
 :   **Random Forests**, **XGBoost**, **LightGBM**, SVM, Cubist, Variational AutoEncoder, Logit, LDA, K-NN, K-Means, NN
 
 DS Lifecycle
-:   **Airflow**, Mlflow, BentoML,  Kubeflow, Seldon-Core, Kedro, DVC
+:   **Airflow**, Mlflow, KFServing, Nuclio, OpenFaaS, BentoML, Seldon-Core, Kedro, DVC
 
 
 Publications

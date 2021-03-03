@@ -10,10 +10,10 @@ Experience (6+ years)
 :   **Data Science Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
     
     Infrastructure setup for model serving and serverless functions.
-    Implementation of pipelines for model serving with api for model monitoring and artifact tracking.
-    Adapting model serving solutions for several internal teams' usage.
+    Implementation of pipelines for model monitoring and artifact tracking.
+    Adapting model serving solutions for internal teams' usage.
 
-    **Tasks:** Deployment of KFServing, Nuclio; Model deployment with CI/CD; K8s logging stream to elastic; Artifact versioning on cloud;
+    **Tasks:** Deployment of KFServing, Nuclio; Model deployment with CI/CD; K8s logging to elastic;
 
 2019/11-2020-12
 :   **Data Infrastructure Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**

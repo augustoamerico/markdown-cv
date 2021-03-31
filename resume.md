@@ -1,4 +1,4 @@
-Tiago dos Santos $\nabla$ Data Science Engineer
+Tiago dos Santos $\nabla$ Machine Learning Engineer
 ============
 > Portugal, Lisbon • <santos.tmd@gmail.com>
 
@@ -7,7 +7,7 @@ Experience (6+ years)
 
 
 2021/01-Present
-:   **Data Science Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
+:   **Machine Learning Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
     
     Infrastructure setup for model serving and serverless functions.
     Implementation of pipelines for model monitoring and artifact tracking.
@@ -23,10 +23,10 @@ Experience (6+ years)
     **Tasks:** Event Sourcing Infrastructure implementation; Data Observability processes; Data Democratization processes; Deployment and Monitoring of Kafka, Kafka Connect, JupyterHub, Druid, KSQLDB; Migration from Azure Data Factory to Airflow;
 
 2019/03-2019/11
-:   **Data Science Engineer; [Stratio](https://stratioautomotive.com/)**
+:   **Machine Learning Engineer; [Stratio](https://stratioautomotive.com/)**
 
     Development of models (vehicle battery discharged - Random Forest, tire pressure - Variational Auto Encoder). 
-    Pipelines definitions for model deployment. 
+    CI/CD for model deployment. 
     Infrastructure creation for the Stratio AI project.
     Dealed with Gigabyte size data (json/parquet).
 
@@ -35,7 +35,7 @@ Experience (6+ years)
 
 
 2017/11-2019/03
-:   **Data Science Engineer; [Feedzai](http://www.feedzai.com/)**
+:   **Machine Learning Engineer; [Feedzai](http://www.feedzai.com/)**
 
     Development and production maintenance of a model (Random Forest) for *Non-Disclosure Client* to detect online payment fraud within 5 countries.
     Dealed with datasets having tens of terabytes size (csv/json, parquet).
@@ -47,7 +47,7 @@ Experience (6+ years)
 
 
 2016/06-2017/06
-:   **Data Science Consultant; [Altran Portugal](http://www.altran.pt/)**
+:   **Machine Learning Consultant; [Altran Portugal](http://www.altran.pt/)**
  
     Development of a ML solution for short-circuit fault detection in Induction Motors.
     Dashboard for inference monitoring (R/Shiny).

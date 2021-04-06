@@ -13,7 +13,7 @@ Experience (6+ years)
     Implementation of pipelines for model monitoring and artifact tracking.
     Adapting model serving solutions for internal teams' usage.
 
-    **Tasks:** Deployment of KFServing, Nuclio; Model deployment with CI/CD; K8s logging to elastic;
+    **Tasks:** Deployment of KFServing, Nuclio; CI/CD pipelines; Service metrics to prometheus;
 
 2019/11-2020-12
 :   **Data Infrastructure Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
@@ -118,12 +118,12 @@ Teaching Experience
 2019/09-2020/07
 :   **Teaching Assistance**; [Lusófona Universidade](https://www.ulusofona.pt/en/)
 
-    Teaching Assistance for the subjects of Multimedia Data Science and Artificial Intelligence.
+    Teaching Assistance for Data Science on tabular data, NLP and Image; Graph Search Algorithms.
 
 2015/03-2015/05 \ 2016/03-2016/05
 :   **Undergraduate Teaching Assistance**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)
 
-    Scholarship in which I've been teaching programming principles with Matlab.
+    Teaching Assistance for programming principles with Matlab.
 
 <!--*Scholarship in which I've been teaching Programming for Sciences and Engineering practical classes. This course is about learning the basics of programming with Matlab.* !-->
 

@@ -1,16 +1,39 @@
-Tiago dos Santos $\nabla$ Data Science Engineer
+Tiago dos Santos $\nabla$ Machine Learning Engineer
 ============
 > Portugal, Lisbon • <santos.tmd@gmail.com>
 
-Experience (6+ years)
+Experience (9+ years)
 ----------
 
+2022/01-Present
+:   **Machine Learning Engineer; [Cleo](https://web.meetcleo.com/)**
+    
+    Ownership of Machine Learning Lifecycle for the Salary Advance App Feature.
+    Experimentation of new ML Problems to optimize business KPIs.
+    Providing in-house tools for scaling up computation.
+    A/B Test deployment and analysis, Shadow Deployment and Monitoring.
 
-2021/01-Present
+    **Tasks:** Exploratory Data Analysis; Drift Exploration; Model Explaination; Model Deployment using AWS Sagemaker; Model Monitoring; On-line Feature Computation using Flink and Feast.
+
+
+
+2021/07-2021/11
+:   **Machine Learning Engineer; [NannyML](https://www.nannyml.com/)**
+    
+    Support Machine Learning Research with frameworks (evaluation, model factory and search). 
+    MVP implementation of models, pipelines and infrastructure.
+    Data Exploration and drift / anomaly detection. 
+    Implementation of an MVP monitoring pipeline.
+    Product Design Research.
+
+    **Tasks:** Drift Exploration using PCA/Autoencoders; Implementation of pipelines using kedro; Implementation of APIs (FastAPI) and event-driven services (NATS-stream);
+
+2021/01-2021/06
 :   **Data Science Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
     
     Infrastructure setup for model serving and serverless functions.
     Implementation of pipelines for model monitoring and artifact tracking.
+    Implementing integration pipelines for model service documentation.
     Adapting model serving solutions for internal teams' usage.
 
     **Tasks:** Deployment of KFServing, Nuclio; Model deployment with CI/CD; K8s logging to elastic;
@@ -31,7 +54,7 @@ Experience (6+ years)
     Dealed with Gigabyte size data (json/parquet).
 
     
-    **Tasks:** Batch and stream infrastructure implementation; Framework creation for project unification and ease to deploy on production; Development and iteration of models with human feedback; Development of dashboards / web apps for human feedback; Model monitoring and performance evaluation (recall, fpr, auc, others); Label Management;
+    **Tasks:** Batch and stream infrastructure implementation; Create Ops Framework to unify project structure and deployment; Development and iteration of models; Development of dashboards for human feedback; Model monitoring and performance evaluation; Label Management;
 
 
 2017/11-2019/03
@@ -86,22 +109,22 @@ Experience (6+ years)
 Skills
 --------------------
 Lang & Tools
-:   **Python**, **R**, **Git**, **Docker**, **k8s**, **bash**, **Java**, C#, Node.js, react.js, Scala
+:   **Python**, **R**, **Git**, **Docker**, **k8s**, **k9s**, **bash**, Java, C#, Node.js, react.js, Scala
 
 Data Store & Query Engine
-:   **HDFS**, **PostgresSQL**, **Kafka**, **Parquet**, **Hive**, **Spark**, Druid, Drill, Presto/Trino, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
+:   **HDFS**, **PostgresSQL**, **Kafka**, **Parquet**, **RedShift** ,**Spark**, Flink, Feast, Hive, Druid, Drill, Presto/Trino, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
 
 Data Viz
-:   **Plotly**, **Shiny**, **Ggplot2**, echarts4r, Redash, Apache Superset, Metastore, Tableau, Kibana
+:   **Plotly**, **Shiny**, **Ggplot2**, echarts4r, Redash, Apache Superset, Periscope, Metastore, Tableau, Kibana
 
 DS Tasks
-:   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **Model Monitoring**, **EDA**, Regression, Clustering
+:   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **Model Monitoring**, **EDA**, **Model Retraining**, Regression, Clustering
 
 DS Models
 :   **Random Forests**, **XGBoost**, **LightGBM**, SVM, Cubist, Variational AutoEncoder, Logit, LDA, K-NN, K-Means, NN
 
 DS Lifecycle
-:   **Airflow**, Mlflow, KFServing, Nuclio, OpenFaaS, BentoML, Seldon-Core, Kedro, DVC
+:   **Airflow**, AWS Sagemaker, Mlflow, KFServing, Nuclio, OpenFaaS, BentoML, Seldon-Core, Kedro, DVC
 
 
 Publications
@@ -121,7 +144,7 @@ Teaching Experience
     Teaching Assistance for the subjects of Multimedia Data Science and Artificial Intelligence.
 
 2015/03-2015/05 \ 2016/03-2016/05
-:   **Undergraduate Teaching Assistance**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)
+:   **Undergraduate Teaching Assistance**; [FCT NOVA](http://www.fct.unl.pt)
 
     Scholarship in which I've been teaching programming principles with Matlab.
 
@@ -130,12 +153,12 @@ Teaching Experience
 Education
 ---------
 2018/09-2019/01
-:   **Partial Post Grad, Analysis and Engineering of Big Data**; [Nova Lisbon University, FCT](https://www.fct.unl.pt/en/education/course/master-analysis-and-engineering-big-data)
+:   **Partial Post Grad, Analysis and Engineering of Big Data**; [FCT NOVA](https://www.fct.unl.pt/en/education/course/master-analysis-and-engineering-big-data)
 
     Multivariate Inference; Cluster analysis; Resampling and Confidence intervals; Optimization
 
 2009/09-2013/07 \ 2014/09-2017/05
-:   **BSc and MSc, Computer Science (17/20)**; [Nova Lisbon University, FCT](http://www.fct.unl.pt)
+:   **BSc and MSc, Computer Science (17/20)**; [FCT NOVA](http://www.fct.unl.pt)
 
     **Thesis (20/20):** Machine Learning for On-line Detection of Stator Short-Circuit in Induction Motors
 

@@ -36,7 +36,7 @@ Experience (9+ years)
     Implementing integration pipelines for model service documentation.
     Adapting model serving solutions for internal teams' usage.
 
-    **Tasks:** Deployment of KFServing, Nuclio; Model deployment with CI/CD; K8s logging to elastic;
+    **Tasks:** Deployment of KFServing, Nuclio; CI/CD pipelines; Service metrics to prometheus;
 
 2019/11-2020-12
 :   **Data Infrastructure Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
@@ -46,10 +46,10 @@ Experience (9+ years)
     **Tasks:** Event Sourcing Infrastructure implementation; Data Observability processes; Data Democratization processes; Deployment and Monitoring of Kafka, Kafka Connect, JupyterHub, Druid, KSQLDB; Migration from Azure Data Factory to Airflow;
 
 2019/03-2019/11
-:   **Data Science Engineer; [Stratio](https://stratioautomotive.com/)**
+:   **Machine Learning Engineer; [Stratio](https://stratioautomotive.com/)**
 
     Development of models (vehicle battery discharged - Random Forest, tire pressure - Variational Auto Encoder). 
-    Pipelines definitions for model deployment. 
+    CI/CD for model deployment. 
     Infrastructure creation for the Stratio AI project.
     Dealed with Gigabyte size data (json/parquet).
 
@@ -58,7 +58,7 @@ Experience (9+ years)
 
 
 2017/11-2019/03
-:   **Data Science Engineer; [Feedzai](http://www.feedzai.com/)**
+:   **Machine Learning Engineer; [Feedzai](http://www.feedzai.com/)**
 
     Development and production maintenance of a model (Random Forest) for *Non-Disclosure Client* to detect online payment fraud within 5 countries.
     Dealed with datasets having tens of terabytes size (csv/json, parquet).
@@ -70,7 +70,7 @@ Experience (9+ years)
 
 
 2016/06-2017/06
-:   **Data Science Consultant; [Altran Portugal](http://www.altran.pt/)**
+:   **Machine Learning Consultant; [Altran Portugal](http://www.altran.pt/)**
  
     Development of a ML solution for short-circuit fault detection in Induction Motors.
     Dashboard for inference monitoring (R/Shiny).
@@ -141,12 +141,12 @@ Teaching Experience
 2019/09-2020/07
 :   **Teaching Assistance**; [Lusófona Universidade](https://www.ulusofona.pt/en/)
 
-    Teaching Assistance for the subjects of Multimedia Data Science and Artificial Intelligence.
+    Teaching Assistance for Data Science on tabular data, NLP and Image; Graph Search Algorithms.
 
 2015/03-2015/05 \ 2016/03-2016/05
 :   **Undergraduate Teaching Assistance**; [FCT NOVA](http://www.fct.unl.pt)
 
-    Scholarship in which I've been teaching programming principles with Matlab.
+    Teaching Assistance for programming principles with Matlab.
 
 <!--*Scholarship in which I've been teaching Programming for Sciences and Engineering practical classes. This course is about learning the basics of programming with Matlab.* !-->
 

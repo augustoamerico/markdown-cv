@@ -8,12 +8,12 @@ Experience (9+ years)
 2022/01-Present
 :   **Machine Learning Engineer; [Cleo](https://web.meetcleo.com/)**
     
-    Ownership of Machine Learning Lifecycle for the Salary Advance App Feature.
-    Experimentation of new ML Problems to optimize business KPIs.
+    Ownership of ML Lifecycle for the Salary Advance App Feature.
+    Experimentation of new ML Problems and Data Mining for problem reframing to optimize business KPIs.
     Providing in-house tools for scaling up computation.
-    A/B Test deployment and analysis, Shadow Deployment and Monitoring.
+    A/B Test deployment and analysis, Shadow Deployment, and Monitoring.
 
-    **Tasks:** Exploratory Data Analysis; Drift Exploration; Model Explaination; Model Deployment using AWS Sagemaker; Model Monitoring; On-line Feature Computation using Flink and Feast.
+    **Tasks:** Exploratory Data Analysis; Drift Exploration; Model Explaination; Model Deployment (Sagemaker, in-house Serverless); Model Monitoring; On-line Feature Computation using Flink and Feast.
 
 
 
@@ -29,7 +29,7 @@ Experience (9+ years)
     **Tasks:** Drift Exploration using PCA/Autoencoders; Implementation of pipelines using kedro; Implementation of APIs (FastAPI) and event-driven services (NATS-stream);
 
 2021/01-2021/06
-:   **Data Science Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
+:   **Machine Learning Engineer; [DefinedCrowd](https://www.definedcrowd.com/)**
     
     Infrastructure setup for model serving and serverless functions.
     Implementation of pipelines for model monitoring and artifact tracking.
@@ -111,11 +111,11 @@ Skills
 Lang & Tools
 :   **Python**, **R**, **Git**, **Docker**, **k8s**, **k9s**, **bash**, Java, C#, Node.js, react.js, Scala
 
-Data Store & Query Engine
-:   **HDFS**, **PostgresSQL**, **Kafka**, **Parquet**, **RedShift** ,**Spark**, Flink, Feast, Hive, Druid, Drill, Presto/Trino, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
+Data Store & Processing
+:   **Pandas**, **Ray**, **Parquet**, **RedShift** ,**Spark**, **HDFS**, **PostgresSQL**, **Kafka**, Flink, Feast, Hive, Druid, Drill, Presto/Trino, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
 
 Data Viz
-:   **Plotly**, **Shiny**, **Ggplot2**, echarts4r, Redash, Apache Superset, Periscope, Metastore, Tableau, Kibana
+:   **Plotly**, **Shiny**, **Ggplot2**, matplotlib, Count Canvas, echarts4r, Redash, Apache Superset, Periscope, Tableau, Kibana
 
 DS Tasks
 :   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **Model Monitoring**, **EDA**, **Model Retraining**, Regression, Clustering
@@ -124,7 +124,10 @@ DS Models
 :   **Random Forests**, **XGBoost**, **LightGBM**, SVM, Cubist, Variational AutoEncoder, Logit, LDA, K-NN, K-Means, NN
 
 DS Lifecycle
-:   **Airflow**, AWS Sagemaker, Mlflow, KFServing, Nuclio, OpenFaaS, BentoML, Seldon-Core, Kedro, DVC
+:   **AWS Sagemaker**, **Airflow**, Mlflow, DVC, KFServing, Nuclio, OpenFaaS, BentoML, Seldon-Core, Kedro
+
+Cloud Envs
+:   AWS, Azure
 
 
 Publications

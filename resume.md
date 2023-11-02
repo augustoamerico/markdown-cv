@@ -9,11 +9,12 @@ Experience (9+ years)
 :   **Machine Learning Engineer; [Cleo](https://web.meetcleo.com/)**
     
     Ownership of ML Lifecycle for the Salary Advance App Feature.
-    Experimentation of new ML Problems and Data Mining for problem reframing to optimize business KPIs.
+    Prioritization Management with Product and Dev Team to achieve Company OKRs.
+    Experimentation of new ML Problems and Data Mining for emerging oportunities.
     Providing in-house tools for scaling up computation.
     A/B Test deployment and analysis, Shadow Deployment, and Monitoring.
 
-    **Tasks:** Exploratory Data Analysis; Drift Exploration; Model Explaination; Model Deployment (Sagemaker, in-house Serverless); Model Monitoring; On-line Feature Computation using Flink and Feast.
+    **Tasks:** Exploratory Data Analysis; User Behaviour Analysis; Model Explaination; Model Deployment; Model Monitoring; Real-time Feature Computation
 
 
 
@@ -43,15 +44,15 @@ Experience (9+ years)
 
     Development, deployment and monitoring of infrastructure and services for internal Data clients.
 
-    **Tasks:** Event Sourcing Infrastructure implementation; Data Observability processes; Data Democratization processes; Deployment and Monitoring of Kafka, Kafka Connect, JupyterHub, Druid, KSQLDB; Migration from Azure Data Factory to Airflow;
+    **Tasks:** Event Sourcing Infra implementation; Data Observability and Data Democratization processes; Deployment and Monitoring of Kafka, Kafka Connect, JupyterHub, Druid, KSQLDB, Airflow;
 
 2019/03-2019/11
 :   **Machine Learning Engineer; [Stratio](https://stratioautomotive.com/)**
 
-    Development of models (vehicle battery discharged - Random Forest, tire pressure - Variational Auto Encoder). 
+    ML Model Development (vehicle battery discharged - Random Forest, tire pressure - Variational Auto Encoder). 
     CI/CD for model deployment. 
     Infrastructure creation for the Stratio AI project.
-    Dealed with Gigabyte size data (json/parquet).
+    Dealed with Gigabyte size data.
 
     
     **Tasks:** Batch and stream infrastructure implementation; Create Ops Framework to unify project structure and deployment; Development and iteration of models; Development of dashboards for human feedback; Model monitoring and performance evaluation; Label Management;
@@ -60,7 +61,7 @@ Experience (9+ years)
 2017/11-2019/03
 :   **Machine Learning Engineer; [Feedzai](http://www.feedzai.com/)**
 
-    Development and production maintenance of a model (Random Forest) for *Non-Disclosure Client* to detect online payment fraud within 5 countries.
+    Development production maintenance of a model (Random Forest) for *Non-Disclosure Client* to detect payment fraud in real-time within 5 countries.
     Dealed with datasets having tens of terabytes size (csv/json, parquet).
     Dealed with fast data (circa 300 transactions p/s peak)
     Model comparison between Random Forest, XGBoost and LightGBM.
@@ -76,7 +77,7 @@ Experience (9+ years)
     Dashboard for inference monitoring (R/Shiny).
     Model Inference module; Model Scoring service.
 
-    **Tasks:** ETL implementation for new data; EDA; Feature Extraction; Model Comparison (compared more than 10 models); Model Hyperparameter Tunning
+    **Tasks:** ETL implementation for new data; EDA; Feature Extraction; Model Comparison; Model Hyperparameter Tunning
 
 2015/07-2016/03
 :   **Software Engineering & Project Manager; Freelancer - [Fluxphera](http://www.fluxphera.com)**
@@ -115,7 +116,7 @@ Data Store & Processing
 :   **Pandas**, **Ray**, **Parquet**, **RedShift** ,**Spark**, **HDFS**, **PostgresSQL**, **Kafka**, Flink, Feast, Hive, Druid, Drill, Presto/Trino, KSQLDB, MySQL, Cassandra, Redis, Microsoft SQL
 
 Data Viz
-:   **Plotly**, **Shiny**, **Ggplot2**, matplotlib, Count Canvas, echarts4r, Redash, Apache Superset, Periscope, Tableau, Kibana
+:   **Plotly**, **Shiny**, **Ggplot2**, **Count Canvas**, matplotlib, echarts4r, Redash, Apache Superset, Periscope, Tableau, Kibana
 
 DS Tasks
 :   **Classification**, **Labeled Evaluation**, **Blind Evaluation**, **Model Monitoring**, **EDA**, **Model Retraining**, Regression, Clustering
@@ -170,9 +171,6 @@ Education
 
 2019/09-2019/10
 :   **Big Data for Data Engineers Specialization**; [Coursera](https://www.coursera.org/specializations/big-data-engineering)
-
-2019/09-2019/10
-:   **Apache Airflow**; [Udemy](https://www.udemy.com/the-complete-hands-on-course-to-master-apache-airflow/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-TECH-ROW-DSA-1-EN-EURO_._ci__._sl_ENG_._vi_TECH_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_57696320791_._ad_318300707723_._de_c_._dm__._pl__._ti_dsa-849065987407_._li_1011742_._pd__._&gclid=EAIaIQobChMIzda16sOT5AIVyPZRCh1gJgWGEAAYASAAEgKv5fD_BwE)
 
 2017/03-2017/08
 :   **Machine Learning Specialization**; [Coursera](https://www.coursera.org/specializations/machine-learning)

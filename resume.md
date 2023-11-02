@@ -8,7 +8,7 @@ Experience (9+ years)
 2022/01-Present
 :   **Machine Learning Engineer; [Cleo](https://web.meetcleo.com/)**
     
-    Ownership of ML Lifecycle for the Salary Advance App Feature.
+    Leadership of ML Lifecycle for the Salary Advance App Feature.
     Prioritization Management with Product and Dev Team to achieve Company OKRs.
     Experimentation of new ML Problems and Data Mining for emerging oportunities.
     Providing in-house tools for scaling up computation.
